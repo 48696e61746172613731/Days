@@ -1,1 +1,2 @@
-# đọc file .txt
+# đọc file .txt .
+# Read text files .
